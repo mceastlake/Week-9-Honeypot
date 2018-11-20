@@ -33,8 +33,6 @@ This the the .json export.
 <a href="session.json">.json file</a>
 
 <h1>Now we're in the realm of giggles!</h1>
-So I got bored and decided to see what the other deployments would return. I put out an elastichoney honeypot, a snort honeypot, and a shockpot sinkhole honeypot. 
+So I got bored and decided to see what the other deployments would return. I put out an elastichoney honeypot, a snort honeypot, a cowrie honeypot, and a shockpot sinkhole honeypot. I'm expecting the cowrie to get a lot of hits, since it's a telnet/ssh honeypot, while the others are IDS honeypots.
 
-
-
-
+Results: Everyone seems very interested in SNORT, and less so in the telnet/ssh. 
