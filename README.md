@@ -22,3 +22,7 @@ After this failure, it was much easier to install the honey trap on the other 2 
 
 Now, I'm recieving attacks constantly. It's scary and cool. I see why organizations need information security professionals. I've put together a few images to show how much I'm going attacked.
 
+<img src="honeypot_map.gif">
+
+<img src="honeypot_results.PNG">
+
